@@ -5,8 +5,8 @@ class Brainrc < Formula
 
   desc "Sync skills, agents, rules and guard hooks into AI coding tools"
   homepage "https://github.com/brainrc/brainrc"
-  url "https://files.pythonhosted.org/packages/95/22/8ef2125650cb27ea3e6068c3ff9fefaba24971dcf275c73dd9dc8cce1da7/brainrc-0.8.16.tar.gz"
-  sha256 "6ced8060bb6ffdaaf279004e26120825a80dfaf3ae552a09f09e7bb0c00797b0"
+  url "https://files.pythonhosted.org/packages/39/1c/f3a2d0af8cf7c2fb7a6e8e638c54252726c6b76b1e9c962a443b0cd9661f/brainrc-0.8.17.tar.gz"
+  sha256 "c127818d0baeae794965e09eea81c0395eb9a0d45a1e9adbeb7748b994b72db2"
   license "MIT"
 
   depends_on "python@3.13"
